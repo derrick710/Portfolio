@@ -78,6 +78,11 @@ section {
     
 }
 
+.logo {
+    width: 15%;
+    length: 15%
+}
+
 .home {
     display: flex;
     justify-content: center;
